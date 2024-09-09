@@ -1,4 +1,5 @@
 # Production-Manufacturing-Insights
+This Dashboard is designed using PowerBI
 
 ![Screenshot 2024-09-08 162741](https://github.com/user-attachments/assets/e551d922-641c-439a-99fe-7ad0cb123870)
 
